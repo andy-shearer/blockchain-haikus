@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-novella",
+  "version": "1.0.0",
+  "description": "### What? This project is a collaborative writing application where multiple people can write a short story or passage together by suggesting and voting on the next word to be appended to the story.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy-shearer/blockchain-novella.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andy-shearer/blockchain-novella/issues"
+  },
+  "homepage": "https://github.com/andy-shearer/blockchain-novella#readme",
+  "dependencies": {
+    "hardhat": "^2.9.3"
+  }
+}
